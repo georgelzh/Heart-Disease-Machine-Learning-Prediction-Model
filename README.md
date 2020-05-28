@@ -5,5 +5,3 @@ Zhihong (George)Li zhihongli@bennington.edu ------  This project intends to find
 
 Part 1: Heart_Disease_Machine_Learning_Prediction_Model   
 Part 2: Shuffle_Data_Ten_Times_and_Evaluate_Model. 
-
-For your convenience, I have also made html version of these two parts. You can either view the html of the original code.
