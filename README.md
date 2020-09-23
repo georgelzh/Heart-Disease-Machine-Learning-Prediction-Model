@@ -15,3 +15,6 @@ continues to evaluate a high potential ML model that we tested here for heart di
 Dataset comes from Kaggle https://www.kaggle.com/nyjoey/heart-disease
 
 # Part 2: Shuffle_Data_Ten_Times_and_Evaluate_Model. 
+This program takes the heart.csv, shuffle it and split the train and test data.
+Then it trains with Logistic Regression Model. Using test data to predict the output(whether patient has heart disease or not).
+Then it evaluates the predictions by calculating the mean precision and precision std.
